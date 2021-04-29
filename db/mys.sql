@@ -1,13 +1,14 @@
-CREATE DATABASE IF NOT EXISTS botconfig;
+CREATE DATABASE IF NOT EXISTS history;
 
-USE botconfig;
+USE history;
 
-CREATE TABLE IF NOT EXISTS botsconf
+CREATE TABLE IF NOT EXISTS history
 (
     id INT,
+    master VARCHAR(20),
     state VARCHAR(20),
     cpuusage INT,
-    data DATETIME
+    config INT,
+    configdate DATETIME
 );
 
-insert into botsconf value (193, 'work', 10, '2021-04-12 12:00:22');

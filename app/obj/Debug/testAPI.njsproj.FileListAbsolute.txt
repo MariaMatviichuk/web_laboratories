@@ -1,0 +1,3 @@
+C:\Users\PM82R\source\repos\testAPI\testAPI\obj\Debug\testAPI.njsprojAssemblyReference.cache
+C:\Users\PM82R\source\repos\testAPI\testAPI\obj\Debug\testAPI.njsproj.CoreCompileInputs.cache
+C:\Users\PM82R\source\repos\testAPI\testAPI\bin\Microsoft.NodejsTools.WebRole.dll
